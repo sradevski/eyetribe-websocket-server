@@ -1,6 +1,6 @@
 ## Synopsis
 
-**EyeTribe Web Socket Server** is a Web Socket Server that wraps the EyeTribe SDK and transmits the data through web sockets. It is primarily used for (EyeNav)[https://github.com/sradevski/eyenav] although you may use it in your application.
+**EyeTribe Web Socket Server** is a Web Socket Server that wraps the EyeTribe SDK and transmits the data through web sockets. It is primarily used for [EyeNav](https://github.com/sradevski/eyenav) although you may use it in your application.
 
 ## Usage
 
